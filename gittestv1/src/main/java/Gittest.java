@@ -6,5 +6,8 @@ public class Gittest {
         System.out.println("111111111111111111111111");
         System.out.println("master主分支新加了内容");
 
+
+        System.out.println("dev新增内容");
+
     }
 }
